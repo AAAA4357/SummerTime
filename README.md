@@ -2,7 +2,8 @@
 
 补课部的清凉一夏！（Blue Archive二创）   --By 萨摩耶工作室
 
-游戏文件在Releases中
+游戏文件在Releases中的.zip压缩包
+安卓版本为.apk
 
 注：本游戏为Nexon公司旗下的《Blue Archive》或称《蔚蓝档案》游戏的二次创作。
 本游戏不存在任何盈利行为，也并非以盈利为目标。
